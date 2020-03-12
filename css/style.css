@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: aqua;
+    text-align: center;
+    overflow: hidden;
+
+}
+.home{
+    background-color: blueviolet;
+    width: 15%;
+    float: left;
+    font-size: x-large;
+    
+}
+.About{
+background-color: brown;
+width: 15%;
+float: left;
+font-size: x-large;
+}
+.product{
+background-color: chartreuse;
+width: 15%;
+float: left;
+font-size: x-large;
+}
+.services{
+background-color: darkgoldenrod;
+width: 15%;
+float: left;
+font-size: x-large;
+}
+.maps{
+background-color: darkmagenta;
+width: 15%;
+float: left;
+font-size: x-large;
+}
+.contact{
+    background-color: darksalmon;
+    width: 25%;
+    float: right;
+    font-size: x-large;
+
+}
+article{
+    background-color: greenyellow;
+}
+.left{
+background-color: lightgreen;
+float: left;
+width:20%;
+height: 500px;
+}
+.middle{
+background-color: lime;
+float: left;
+width:60%;
+height: 500px;
+}
+.right{
+background-color: mediumvioletred;
+float: right;
+width:20%;
+height: 500px;
+}
+footer{
+    background-color: darkorange;
+    text-align: center;
+    padding: 30px;
+    overflow: hidden;
+}
